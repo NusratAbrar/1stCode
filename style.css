@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+body{
+font-size: 16px;
+color: #8e8e8e;
+}
+.home_section h1{
+font-family: 'Oxygen', sans-serif;
+color: red;
+background-color:pink;
+
+}
+p{
+border:1px solid blue;
+padding :30px;
+}
+.home_section{
+margin: 50px ;
+border: 2px dotted red;
+}
+#Section_01{
+width: auto;
+height: 400px;
+color: black;
+background-color: #fffdd0;
+font-family: 'Potta One', cursive;
+}
+#Section_02{
+width: auto;
+height: 600px;
+color: black;
+background-color: #fffdd0;
+font-family: 'Potta One', cursive;
+}
